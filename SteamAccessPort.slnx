@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SteamAccessPort.Api/SteamAccessPort.Api.csproj" />
+    <Project Path="src/SteamAccessPort.Application/SteamAccessPort.Application.csproj" />
+    <Project Path="src/SteamAccessPort.Domain/SteamAccessPort.Domain.csproj" />
+    <Project Path="src/SteamAccessPort.Infrastructure/SteamAccessPort.Infrastructure.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,14 @@
+GET  owned/{steamUserId}
+     Live Steam API data
+
+POST sync/{steamUserId}
+     Steam API → SQL Server
+
+GET  saved/{steamUserId}
+     SQL Server saved library
+
+POST ratings
+     Save/update personal game rating
+
+GET  recommendations/{steamUserId}
+     UserGames + GameRatings + scoring formula
